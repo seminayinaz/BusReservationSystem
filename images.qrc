@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/20210120151022187.png</file>
+        <file>images/Dubai-to-Oman-Bus-Service-Cover-26-10.jpg</file>
+        <file>images/Bus-Service-Cover-26-10.jpg</file>
+        <file>images/wallpaper.jpg</file>
+    </qresource>
+</RCC>
